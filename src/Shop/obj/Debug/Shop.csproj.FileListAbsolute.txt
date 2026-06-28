@@ -1,0 +1,870 @@
+C:\Users\Latitude 5300\Desktop\Shop\Shop\obj\Debug\Shop.csproj.AssemblyReference.cache
+C:\Users\Latitude 5300\Desktop\Shop\Shop\obj\Debug\Shop.Migrations.InitialModel.resources
+C:\Users\Latitude 5300\Desktop\Shop\Shop\obj\Debug\Shop.Migrations.hotendiachi.resources
+C:\Users\Latitude 5300\Desktop\Shop\Shop\obj\Debug\Shop.Migrations.Update.resources
+C:\Users\Latitude 5300\Desktop\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+C:\Users\Latitude 5300\Desktop\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Shop.dll.config
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Shop.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Shop.pdb
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\csc.exe
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\csc.exe.config
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\csc.rsp
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\csi.exe
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\csi.exe.config
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\csi.rsp
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\System.Buffers.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\System.Memory.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\vbc.exe
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\vbc.exe.config
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\vbc.rsp
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Antlr3.Runtime.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\BotDetect.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\BotDetect.Web.Mvc.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\BouncyCastle.Crypto.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\CKFinder.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\ClosedXML.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\ClosedXML.Parser.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\DocumentFormat.OpenXml.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\EntityFramework.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\EntityFramework.SqlServer.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\EPPlus.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\EPPlus.Interfaces.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\EPPlus.System.Drawing.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\ExcelNumberFormat.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Owin.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Owin.Security.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Newtonsoft.Json.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Owin.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\PagedList.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\PagedList.Mvc.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\PayPal.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\QRCoder.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\RBush.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\SixLabors.Fonts.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Buffers.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.ComponentModel.Annotations.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Data.SQLite.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Drawing.Common.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.IO.Packaging.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Memory.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Numerics.Vectors.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Security.Cryptography.Xml.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Text.Encodings.Web.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Text.Json.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.ValueTuple.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Web.Helpers.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Web.Mvc.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Web.Optimization.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Web.Razor.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Web.WebPages.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Twilio.AspNet.Common.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Twilio.AspNet.Mvc.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Twilio.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\WebGrease.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\ClosedXML.pdb
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\ClosedXML.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\ClosedXML.Parser.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\DocumentFormat.OpenXml.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\EntityFramework.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\EntityFramework.SqlServer.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\EPPlus.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\ExcelNumberFormat.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Bcl.TimeProvider.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Owin.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Owin.Security.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Newtonsoft.Json.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\PagedList.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\PagedList.Mvc.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\PayPal.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\RBush.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\SixLabors.Fonts.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Buffers.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Data.SQLite.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Drawing.Common.pdb
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Drawing.Common.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.IO.Packaging.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Memory.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Numerics.Vectors.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Security.Cryptography.Xml.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Text.Encodings.Web.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Text.Json.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.ValueTuple.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Web.Helpers.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Web.Mvc.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Web.Razor.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Web.WebPages.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\System.Web.Optimization.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Twilio.xml
+C:\Users\Latitude 5300\Desktop\Shop\Shop\bin\Antlr3.Runtime.pdb
+C:\Users\Latitude 5300\Desktop\Shop\Shop\obj\Debug\Shop.csproj.Up2Date
+C:\Users\Latitude 5300\Desktop\Shop\Shop\obj\Debug\Shop.dll
+C:\Users\Latitude 5300\Desktop\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\obj\Debug\Shop.csproj.AssemblyReference.cache
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\obj\Debug\Shop.Migrations.InitialModel.resources
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\obj\Debug\Shop.Migrations.hotendiachi.resources
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\obj\Debug\Shop.Migrations.Update.resources
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\obj\Debug\Shop.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Shop.dll.config
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Shop.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Shop.pdb
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\csc.exe
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\csc.exe.config
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\csc.rsp
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\csi.exe
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\csi.exe.config
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\csi.rsp
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\System.Buffers.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\System.Memory.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\vbc.exe
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\vbc.exe.config
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\vbc.rsp
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Antlr3.Runtime.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\BotDetect.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\BotDetect.Web.Mvc.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\BouncyCastle.Crypto.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\CKFinder.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\ClosedXML.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\ClosedXML.Parser.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\DocumentFormat.OpenXml.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\EntityFramework.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\EntityFramework.SqlServer.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\EPPlus.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\EPPlus.Interfaces.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\EPPlus.System.Drawing.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\ExcelNumberFormat.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Owin.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Owin.Security.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Newtonsoft.Json.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Owin.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\PagedList.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\PagedList.Mvc.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\PayPal.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\QRCoder.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\RBush.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\SixLabors.Fonts.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Buffers.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.ComponentModel.Annotations.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Data.SQLite.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Drawing.Common.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.IO.Packaging.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Memory.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Numerics.Vectors.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Security.Cryptography.Xml.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Text.Encodings.Web.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Text.Json.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.ValueTuple.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Web.Helpers.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Web.Mvc.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Web.Optimization.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Web.Razor.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Web.WebPages.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Twilio.AspNet.Common.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Twilio.AspNet.Mvc.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Twilio.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\WebGrease.dll
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\ClosedXML.pdb
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\ClosedXML.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\ClosedXML.Parser.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\DocumentFormat.OpenXml.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\EntityFramework.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\EntityFramework.SqlServer.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\EPPlus.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\ExcelNumberFormat.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Bcl.TimeProvider.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Owin.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Owin.Security.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Newtonsoft.Json.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\PagedList.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\PagedList.Mvc.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\PayPal.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\RBush.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\SixLabors.Fonts.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Buffers.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Data.SQLite.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Drawing.Common.pdb
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Drawing.Common.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.IO.Packaging.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Memory.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Numerics.Vectors.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Security.Cryptography.Xml.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Text.Encodings.Web.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Text.Json.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.ValueTuple.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Web.Helpers.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Web.Mvc.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Web.Razor.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Web.WebPages.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\System.Web.Optimization.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Twilio.xml
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\bin\Antlr3.Runtime.pdb
+C:\Users\Latitude 5300\Desktop\Project\Shop\Shop\obj\Debug\Shop.csproj.Up2Date
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Shop.dll.config
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Shop.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Shop.pdb
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\csc.exe
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\csc.rsp
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\csi.exe
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\csi.rsp
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\System.Buffers.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\System.Memory.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\vbc.exe
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\BotDetect.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\BotDetect.Web.Mvc.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\CKFinder.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\ClosedXML.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\ClosedXML.Parser.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\DocumentFormat.OpenXml.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\EntityFramework.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\EPPlus.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\EPPlus.Interfaces.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\EPPlus.System.Drawing.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\ExcelNumberFormat.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Bcl.TimeProvider.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Owin.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Owin.Security.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Owin.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\PagedList.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\PagedList.Mvc.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\PayPal.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\QRCoder.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\RBush.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\SixLabors.Fonts.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Buffers.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.ComponentModel.Annotations.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Data.SQLite.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Drawing.Common.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.IO.Packaging.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Memory.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Numerics.Vectors.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Security.Cryptography.Xml.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Text.Json.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.ValueTuple.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Web.Razor.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Twilio.AspNet.Common.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Twilio.AspNet.Mvc.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Twilio.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\WebGrease.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\ClosedXML.pdb
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\ClosedXML.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\ClosedXML.Parser.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\DocumentFormat.OpenXml.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\DocumentFormat.OpenXml.Framework.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\EntityFramework.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\EPPlus.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\ExcelNumberFormat.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Bcl.TimeProvider.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Owin.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Owin.Security.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\PagedList.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\PagedList.Mvc.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\PayPal.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\RBush.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\SixLabors.Fonts.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Buffers.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Data.SQLite.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Drawing.Common.pdb
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Drawing.Common.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.IO.Packaging.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Memory.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Numerics.Vectors.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Security.Cryptography.Xml.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Text.Encodings.Web.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Text.Json.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.ValueTuple.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Web.Razor.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Twilio.xml
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\obj\Debug\Shop.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\obj\Debug\Shop.Migrations.InitialModel.resources
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\obj\Debug\Shop.Migrations.hotendiachi.resources
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\obj\Debug\Shop.Migrations.Update.resources
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\obj\Debug\Shop.csproj.Up2Date
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\obj\Debug\Shop.dll
+C:\Users\ASUS\Documents\WebBanLaptop\Shop\obj\Debug\Shop.pdb
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Shop.dll.config
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Shop.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Shop.pdb
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\csc.exe
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\csc.exe.config
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\csc.rsp
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\csi.exe
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\csi.exe.config
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\csi.rsp
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\System.Buffers.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\System.Collections.Immutable.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\System.Memory.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\System.Numerics.Vectors.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\System.Reflection.Metadata.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\vbc.exe
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\vbc.exe.config
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\vbc.rsp
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\VBCSCompiler.exe
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\roslyn\VBCSCompiler.exe.config
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Antlr3.Runtime.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\BotDetect.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\BotDetect.Web.Mvc.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\BouncyCastle.Crypto.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\CKFinder.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\ClosedXML.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\ClosedXML.Parser.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\DocumentFormat.OpenXml.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\DocumentFormat.OpenXml.Framework.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\EntityFramework.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\EntityFramework.SqlServer.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\EPPlus.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\EPPlus.Interfaces.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\EPPlus.System.Drawing.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\ExcelNumberFormat.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.AspNet.Identity.Core.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Bcl.HashCode.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Bcl.TimeProvider.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.IdentityModel.Abstractions.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.IdentityModel.Logging.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.IdentityModel.Tokens.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.IO.RecyclableMemoryStream.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Owin.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Owin.Security.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Owin.Security.Facebook.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Owin.Security.Google.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Owin.Security.OAuth.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Owin.Security.Twitter.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Web.Infrastructure.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Newtonsoft.Json.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Owin.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\PagedList.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\PagedList.Mvc.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\PayPal.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\QRCoder.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\RBush.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\SixLabors.Fonts.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Buffers.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.ComponentModel.Annotations.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Data.SQLite.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Diagnostics.DiagnosticSource.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Drawing.Common.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.IO.Packaging.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Memory.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Numerics.Vectors.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Security.Cryptography.Xml.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Text.Encodings.Web.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Text.Json.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Threading.Tasks.Extensions.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.ValueTuple.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Web.Helpers.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Web.Mvc.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Web.Optimization.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Web.Razor.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Web.WebPages.Deployment.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Web.WebPages.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Web.WebPages.Razor.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Twilio.AspNet.Common.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Twilio.AspNet.Mvc.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Twilio.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\WebGrease.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\ClosedXML.pdb
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\ClosedXML.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\ClosedXML.Parser.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\DocumentFormat.OpenXml.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\DocumentFormat.OpenXml.Framework.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\EntityFramework.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\EntityFramework.SqlServer.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\EPPlus.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\ExcelNumberFormat.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.AspNet.Identity.Core.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Bcl.HashCode.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Bcl.TimeProvider.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.IdentityModel.Abstractions.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.IdentityModel.Logging.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.IdentityModel.Tokens.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.IO.RecyclableMemoryStream.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Owin.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Owin.Security.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Owin.Security.Facebook.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Owin.Security.Google.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Owin.Security.OAuth.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Microsoft.Owin.Security.Twitter.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Newtonsoft.Json.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\PagedList.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\PagedList.Mvc.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\PayPal.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\RBush.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\SixLabors.Fonts.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Buffers.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Data.SQLite.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Diagnostics.DiagnosticSource.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Drawing.Common.pdb
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Drawing.Common.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.IO.Packaging.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Memory.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Numerics.Vectors.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Security.Cryptography.Xml.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Text.Encodings.Web.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Text.Json.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Threading.Tasks.Extensions.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.ValueTuple.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Web.Helpers.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Web.Mvc.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Web.Razor.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Web.WebPages.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Web.WebPages.Deployment.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Web.WebPages.Razor.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\System.Web.Optimization.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Twilio.xml
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\bin\Antlr3.Runtime.pdb
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\obj\Debug\Shop.csproj.AssemblyReference.cache
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\obj\Debug\Shop.Migrations.InitialModel.resources
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\obj\Debug\Shop.Migrations.hotendiachi.resources
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\obj\Debug\Shop.Migrations.Update.resources
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\obj\Debug\Shop.csproj.Up2Date
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\obj\Debug\Shop.dll
+D:\new222\ASPNET-VX23TTK10-buixuantoan-ShopLaptop\src\Shop\obj\Debug\Shop.pdb
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Shop.dll.config
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Shop.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Shop.pdb
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\csc.exe
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\csc.exe.config
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\csc.rsp
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\csi.exe
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\csi.exe.config
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\csi.rsp
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\System.Buffers.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\System.Collections.Immutable.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\System.Memory.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\System.Numerics.Vectors.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\vbc.exe
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\vbc.exe.config
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\vbc.rsp
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\VBCSCompiler.exe
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\roslyn\VBCSCompiler.exe.config
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Antlr3.Runtime.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\BotDetect.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\BotDetect.Web.Mvc.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\BouncyCastle.Crypto.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\CKFinder.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\ClosedXML.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\ClosedXML.Parser.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\DocumentFormat.OpenXml.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\DocumentFormat.OpenXml.Framework.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\EntityFramework.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\EntityFramework.SqlServer.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\EPPlus.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\EPPlus.Interfaces.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\EPPlus.System.Drawing.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\ExcelNumberFormat.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Bcl.HashCode.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Bcl.TimeProvider.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.IdentityModel.Abstractions.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.IdentityModel.Logging.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Owin.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Owin.Security.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Owin.Security.Google.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Web.Infrastructure.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Newtonsoft.Json.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Owin.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\PagedList.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\PagedList.Mvc.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\PayPal.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\QRCoder.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\RBush.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\SixLabors.Fonts.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Buffers.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.ComponentModel.Annotations.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Data.SQLite.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Drawing.Common.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.IO.Packaging.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Memory.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Numerics.Vectors.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Security.Cryptography.Xml.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Text.Encodings.Web.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Text.Json.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Threading.Tasks.Extensions.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.ValueTuple.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Web.Helpers.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Web.Mvc.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Web.Optimization.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Web.Razor.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Web.WebPages.Deployment.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Web.WebPages.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Web.WebPages.Razor.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Twilio.AspNet.Common.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Twilio.AspNet.Mvc.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Twilio.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\WebGrease.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\ClosedXML.pdb
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\ClosedXML.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\ClosedXML.Parser.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\DocumentFormat.OpenXml.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\DocumentFormat.OpenXml.Framework.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\EntityFramework.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\EntityFramework.SqlServer.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\EPPlus.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\ExcelNumberFormat.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Bcl.HashCode.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Bcl.TimeProvider.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.IdentityModel.Abstractions.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.IdentityModel.Logging.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Owin.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Owin.Security.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Owin.Security.Google.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Newtonsoft.Json.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\PagedList.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\PagedList.Mvc.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\PayPal.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\RBush.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\SixLabors.Fonts.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Buffers.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Data.SQLite.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Drawing.Common.pdb
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Drawing.Common.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.IO.Packaging.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Memory.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Numerics.Vectors.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Security.Cryptography.Xml.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Text.Encodings.Web.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Text.Json.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Threading.Tasks.Extensions.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.ValueTuple.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Web.Helpers.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Web.Mvc.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Web.Razor.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Web.WebPages.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Web.WebPages.Deployment.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Web.WebPages.Razor.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\System.Web.Optimization.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Twilio.xml
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\bin\Antlr3.Runtime.pdb
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\obj\Debug\Shop.csproj.AssemblyReference.cache
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\obj\Debug\Shop.Migrations.InitialModel.resources
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\obj\Debug\Shop.Migrations.hotendiachi.resources
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\obj\Debug\Shop.Migrations.Update.resources
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\obj\Debug\Shop.csproj.Up2Date
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\obj\Debug\Shop.dll
+D:\Danh\ShopLaptop\ShopLaptop\src\Shop\obj\Debug\Shop.pdb
