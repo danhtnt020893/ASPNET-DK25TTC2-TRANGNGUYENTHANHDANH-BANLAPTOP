@@ -1,5 +1,6 @@
 # ShopLaptop — Website Bán Laptop
 
+Website thương mại điện tử bán laptop, xây dựng trên **ASP.NET MVC 5** + **SQL Server**.
 
 ---
 
