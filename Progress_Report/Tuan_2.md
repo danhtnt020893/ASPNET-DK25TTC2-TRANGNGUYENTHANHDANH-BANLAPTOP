@@ -4,7 +4,6 @@
 
 ## 1. Các bước chuẩn bị project
 
-- [x] Chạy script tạo database `ShopLaptop` trên SQL Server
 - [x] Cấu hình Entity Framework — DbContext, Entity Models
 - [x] Thiết lập ASP.NET Identity — đăng nhập, đăng ký, quản lý tài khoản
 - [x] Xây dựng layout chính (`_Layout.cshtml`) — header, footer, navigation
