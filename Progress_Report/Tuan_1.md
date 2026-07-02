@@ -4,7 +4,6 @@
 
 ## 1. Các bước chuẩn bị project
 
-- [x] Phân tích yêu cầu đồ án — xác định chức năng cốt lõi (bán laptop, quản trị, thanh toán)
 - [x] Xây dựng sơ đồ usecase, sơ đồ ER cho database
 - [x] Thiết kế wireframe / mockup giao diện các trang chính
 - [x] Lựa chọn công nghệ: ASP.NET MVC 5 + SQL Server + Entity Framework
