@@ -1,4 +1,4 @@
-﻿
+USE [master]﻿
 GO
 /****** Object:  Database [ShopLaptop]    Script Date: 10/15/2025 06:22:25 PM ******/
 CREATE DATABASE [ShopLaptop]
