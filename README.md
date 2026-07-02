@@ -198,4 +198,4 @@ ShopLaptop/
 
 - **Email:** danhtnt020893@tvu-onschool.edu.vn
 - **Hotline:** 077.268.4206
-- **Địa chỉ** Phường Gia Định, Thành phố HỒ Chí Minh
+- **Địa chỉ** Phường Gia Định, Thành phố Hồ Chí Minh
