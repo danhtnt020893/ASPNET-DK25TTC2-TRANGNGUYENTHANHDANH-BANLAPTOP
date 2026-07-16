@@ -1,9 +1,8 @@
 Báo cáo tiến độ - Tuần 1
-Họ và tên: Trang Nguyễn Thanh Danh
 
-MSSV: DK25TTC2 - 170125093
-
-Dự án: Xây dựng website bán laptop (ASP.NET)
+**Họ và tên:** Trang Nguyễn Thanh Danh
+**MSSV:** DK25TTC2 - 170125093
+**Dự án:** Xây dựng website bán laptop (ASP.NET)
 
 ----
 
