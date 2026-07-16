@@ -1,5 +1,10 @@
-# Tuần 2: 01/07/2026 — 07/07/2026
+# Báo cáo tiến độ - Tuần 2
 
+**Họ và tên:** Trang Nguyễn Thanh Danh
+
+**MSSV:** DK25TTC2 - 170125093
+
+**Dự án:** Xây dựng website bán laptop (ASP.NET)
 ---
 
 ## 1. Các bước chuẩn bị project
@@ -71,6 +76,6 @@
 
 ## 7. Ghi chú
 
-- Thời gian thực hiện tuần 2: **5 ngày** (01/07 — 07/07/2026)
+- Thời gian thực hiện tuần 2: **7 ngày** (01/07 — 07/07/2026)
 - Tiến độ so với kế hoạch: **Đúng tiến độ**
 - Vấn đề kỹ thuật đáng chú ý: cần theo dõi NuGet audit warnings và tắt suppress nếu không ảnh hưởng đến chức năng
