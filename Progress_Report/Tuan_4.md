@@ -83,6 +83,6 @@
 
 ## 7. Ghi chú
 
-- Thời gian thực hiện tuần 4: **7 ngày** (15/07 — 21/07/2026)
+- Thời gian thực hiện tuần 4: **7 ngày** (27/07 — 02/08/2026)
 - Tiến độ so với kế hoạch: **Đúng tiến độ**
 - Lưu ý: credentials thanh toán (PayPal, Momo, Twilio) cần thay bằng production credentials trước khi deploy
