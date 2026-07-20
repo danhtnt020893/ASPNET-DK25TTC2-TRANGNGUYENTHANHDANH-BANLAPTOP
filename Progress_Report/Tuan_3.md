@@ -78,6 +78,6 @@
 
 ## 7. Ghi chú
 
-- Thời gian thực hiện tuần 3: **7 ngày** (08/07 — 14/07/2026)
+- Thời gian thực hiện tuần 3: **7 ngày** (20/07 — 26/07/2026)
 - Tiến độ so với kế hoạch: **Đúng tiến độ**
 - Cần tối ưu truy vấn database cho trang danh sách sản phẩm (nhiều hình ảnh)
