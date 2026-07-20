@@ -70,5 +70,5 @@
 
 ## 7. Ghi chú
 
-- Thời gian thực hiện tuần 1: **7 ngày** (24/06 — 30/06/2026)
+- Thời gian thực hiện tuần 1: **7 ngày** (06/07 — 12/07/2026)
 - Tiến độ so với kế hoạch: **Đúng tiến độ**
