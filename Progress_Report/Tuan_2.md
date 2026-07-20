@@ -77,6 +77,6 @@
 
 ## 7. Ghi chú
 
-- Thời gian thực hiện tuần 2: **7 ngày** (01/07 — 07/07/2026)
+- Thời gian thực hiện tuần 2: **7 ngày** (13/07 — 19/07/2026)
 - Tiến độ so với kế hoạch: **Đúng tiến độ**
 - Vấn đề kỹ thuật đáng chú ý: cần theo dõi NuGet audit warnings và tắt suppress nếu không ảnh hưởng đến chức năng
