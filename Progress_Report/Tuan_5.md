@@ -1,4 +1,10 @@
-# Tuần 5: 22/07/2026 — 01/08/2026
+# Báo cáo tiến độ - Tuần 5
+
+**Họ và tên:** Trang Nguyễn Thanh Danh
+
+**MSSV:** DK25TTC2 - 170125093
+
+**Dự án:** Xây dựng website bán laptop (ASP.NET)
 
 ---
 
@@ -110,6 +116,6 @@
 
 ## 7. Ghi chú
 
-- Thời gian thực hiện tuần 5: **9 ngày** (22/07 — 01/08/2026)
+- Thời gian thực hiện tuần 5: **7 ngày** (03/08 — 09/08/2026)
 - Tiến độ so với kế hoạch: **Hoàn thành đúng hạn**
 - Dự án đã hoàn thành 100% các chức năng yêu cầu
